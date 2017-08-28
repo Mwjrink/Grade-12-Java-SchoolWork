@@ -1,0 +1,2 @@
+in collect cells four more lines returning the diagonal positions would need to be added. +x +y, -x -y, -x +y, +x -y
+(1, 3) and (4, 3) would appear as one colonie.
